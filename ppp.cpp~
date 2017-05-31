@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main () {
+  int N=0,k,m;
+  cout<<"Enter a number"<<endl;
+ cin>>N;
+ while 
