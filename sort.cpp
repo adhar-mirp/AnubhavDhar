@@ -6,7 +6,7 @@ cout<<"Enter how many numbers do you want to sort."<<endl;
 cin>>N;
 int arr[N],temp;
 for (int i=0;i<=(N-1);i++){
-   cout<<"Give you entry number "<<(i+1)<<endl;
+   cout<<"Give your entry number "<<(i+1)<<endl;
    cin>>arr[i];
    }
 cout<<"sorted !"<<endl;

@@ -9,6 +9,7 @@ for (int i=0;i<=(N-1);i++){
    cout<<"Give you entry number "<<(i+1)<<endl;
    cin>>arr[i];
    }
+cout<<"sorted !"<<endl;
  for (int j=0;j<=(N-1);j++){
    for (int k=0;k<=(N-1);k++){
      if ((j<k)&&(arr[k]<arr[j])){
